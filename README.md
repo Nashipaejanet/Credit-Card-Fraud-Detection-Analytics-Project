@@ -47,6 +47,7 @@ jupyter notebook
 
 ## Dashboard Preview
 - Here is a preview of the fraud detection dashboard:
+  ![Dashboard Preview](screenshots/dashboard_previews.png)
 
 ## Results / Insights
 - Model performance: Accuracy: 98%, Precision: 94%, Recall: 92%, F1-Score: 93%
