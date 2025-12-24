@@ -47,16 +47,14 @@ jupyter notebook
 
 ## Dashboard Preview
 <!-- Updated dashboard screenshots to display inline -->
-Here are previews of the fraud detection dashboard:
-
 ### Fraud Overview
-![Fraud Overview](screenshots/Fraud Overview)
+![Fraud Overview](Screenshots/Fraud%20Overview.PNG)
 
 ### Fraud Patterns & Trends
-![Fraud Patterns & Trends](Screenshots/High Risk Transactions.PNG)
+![Fraud Patterns & Trends](Screenshots/Fraud%20Patterns%20&%20Trends.PNG)
 
 ### High-Risk Transactions
-![High-Risk Transactions](screenshots/High Risk Transactions)
+![High-Risk Transactions](Screenshots/High%20Risk%20Transactions.PNG)
 
 ## Results / Insights
 - Model performance: Accuracy: 98%, Precision: 94%, Recall: 92%, F1-Score: 93%
