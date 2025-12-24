@@ -53,7 +53,7 @@ Here are previews of the fraud detection dashboard:
 ![Fraud Overview](screenshots/Fraud Overview)
 
 ### Fraud Patterns & Trends
-![Fraud Patterns & Trends](screenshots/Fraud Patterns & Trends)
+![Fraud Patterns & Trends](Screenshots/High Risk Transactions.PNG)
 
 ### High-Risk Transactions
 ![High-Risk Transactions](screenshots/High Risk Transactions)
