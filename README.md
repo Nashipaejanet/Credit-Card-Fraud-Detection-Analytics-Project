@@ -47,13 +47,13 @@ jupyter notebook
 
 ## Dashboard Preview
 - Here is a preview of the fraud detection dashboard:
-### Fraud Overview
+ ### Fraud Overview
 ![Fraud Overview](screenshots/Fraud Overview.PNG)
 
-### Fraud Patterns & Trends
+ ### Fraud Patterns & Trends
 ![Fraud Patterns & Trends](screenshots/Fraud Patterns & Trends.PNG)
 
-### High-Risk Transactions
+ ### High-Risk Transactions
 ![High-Risk Transactions](screenshots/High Risk Transactions.PNG)
 
 ## Results / Insights
