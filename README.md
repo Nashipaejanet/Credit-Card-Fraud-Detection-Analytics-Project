@@ -40,22 +40,22 @@ jupyter notebook
 
 5. Open the Power BI dashboard file (.pbix) to explore visualizations and key metrics.
 
-6. **Usage**
+## Usage
 - Run the notebooks to explore data, train models, and evaluate results.
 - Open the Power BI dashboard (`Credit_Card_Fraud_Dashboard.pbix`) to interact with visualizations and key performance metrics.
 - Use the trained model scripts to predict high-risk transactions on new datasets.
 
-7. **Results / Dashboard Preview**
+## Results / Dashboard Preview
 - Detects suspicious transactions with high accuracy, minimizing false positives.
 - Visualizes fraud trends, peak transaction times, and high-risk cardholders.
 - Supports decision-making in fraud prevention, risk management, and operational planning.
 - Example dashboard screenshots can be added here or in a `/screenshots` folder.
 
-8. **Contributing**
+## Contributing
 - Contributions are welcome. You can submit pull requests for bug fixes, new features, or improvements.
 - Please ensure code is clean and documented, and add any new datasets or scripts to the appropriate folders.
 - Report issues or suggest enhancements via GitHub Issues.
 
-9. **License**
+## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the project under the terms of this license.
 
