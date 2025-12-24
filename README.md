@@ -34,3 +34,8 @@ git clone https://github.com/Nashipaejanet/credit-card-fraud-detection.git
 
 3. Install required Python packages:
 pip install -r requirements.txt
+
+4. Run the Jupyter notebooks or Python scripts for analysis:
+jupyter notebook
+
+5. Open the Power BI dashboard file (.pbix) to explore visualizations and key metrics.
