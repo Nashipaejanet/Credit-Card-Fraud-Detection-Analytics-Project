@@ -32,3 +32,5 @@ git clone https://github.com/Nashipaejanet/credit-card-fraud-detection.git
    ```bash
    cd credit-card-fraud-detection
 
+3. Install required Python packages:
+pip install -r requirements.txt
