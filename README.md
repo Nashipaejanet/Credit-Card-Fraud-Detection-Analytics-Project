@@ -27,3 +27,7 @@ To run this project locally:
    ```bash
    cd credit-card-fraud-detection
 git clone https://github.com/yourusername/credit-card-fraud-detection.git
+2. Navigate into the project directory:
+   ```bash
+   cd credit-card-fraud-detection
+
