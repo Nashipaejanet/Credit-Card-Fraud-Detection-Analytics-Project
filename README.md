@@ -46,6 +46,7 @@ jupyter notebook
 - Use the trained model scripts to predict high-risk transactions on new datasets.
 
 ## Dashboard Preview
+<!-- Updated dashboard screenshots to display inline -->
 - Here is a preview of the fraud detection dashboard:
   ### Fraud Overview
   ![Fraud Overview](screenshots/Fraud Overview.PNG)
