@@ -23,4 +23,7 @@ By combining predictive modeling with interactive dashboards, this project demon
 To run this project locally:  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
+   2. Navigate into the project directory:
+   ```bash
+   cd credit-card-fraud-detection
+git clone https://github.com/yourusername/credit-card-fraud-detection.git
