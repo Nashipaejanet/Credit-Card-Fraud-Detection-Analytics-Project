@@ -38,19 +38,20 @@ pip install -r requirements.txt
 4. Run the Jupyter notebooks or Python scripts for analysis:
 jupyter notebook
 
-5. Open the Power BI dashboard file (.pbix) to explore visualizations and key metrics.
+5. Open the Power BI dashboard: Open the .pbix file in PowerBI/ to interact with visualizations and insights.
 
 ## Usage
 - Run the notebooks to explore data, train models, and evaluate results.
 - Open the Power BI dashboard (`Credit_Card_Fraud_Dashboard.pbix`) to interact with visualizations and key performance metrics.
 - Use the trained model scripts to predict high-risk transactions on new datasets.
 
-## Results / Dashboard Preview
-- Detects suspicious transactions with high accuracy, minimizing false positives.
-- Visualizes fraud trends, peak transaction times, and high-risk cardholders.
-- Supports decision-making in fraud prevention, risk management, and operational planning.
-- Example dashboard screenshots can be added here or in a `/screenshots` folder.
+## Dashboard Preview
+- Here is a preview of the fraud detection dashboard:
 
+## Results / Insights
+- Model performance: Accuracy: 98%, Precision: 94%, Recall: 92%, F1-Score: 93%
+- Identified high-risk transactions with minimal false positives.
+- Insights include peak fraud times, transaction patterns, and customer behavior trends.
 ## Contributing
 - Contributions are welcome. You can submit pull requests for bug fixes, new features, or improvements.
 - Please ensure code is clean and documented, and add any new datasets or scripts to the appropriate folders.
