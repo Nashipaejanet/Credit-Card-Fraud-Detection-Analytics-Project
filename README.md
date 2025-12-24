@@ -52,6 +52,10 @@ jupyter notebook
 - Model performance: Accuracy: 98%, Precision: 94%, Recall: 92%, F1-Score: 93%
 - Identified high-risk transactions with minimal false positives.
 - Insights include peak fraud times, transaction patterns, and customer behavior trends.
+
+## Future Work
+- Experiment with additional machine learning models (e.g., XGBoost, LightGBM).
+
 ## Contributing
 - Contributions are welcome. You can submit pull requests for bug fixes, new features, or improvements.
 - Please ensure code is clean and documented, and add any new datasets or scripts to the appropriate folders.
